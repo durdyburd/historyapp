@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  get 'persons/index'
+  #get 'persons/index'
+  root 'persons#index'
 
   get 'persons/detail'
 
