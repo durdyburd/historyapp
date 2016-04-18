@@ -3,11 +3,9 @@
 one:
   name: MyString
   year: 1
-  description: MyText
-  id: 1
+  background: MyText
 
 two:
   name: MyString
   year: 1
-  description: MyText
-  id: 1
+  background: MyText

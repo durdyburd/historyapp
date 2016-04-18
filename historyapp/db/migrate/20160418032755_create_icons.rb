@@ -3,8 +3,7 @@ class CreateIcons < ActiveRecord::Migration
     create_table :icons do |t|
       t.string :name
       t.integer :year
-      t.text :description
-      t.integer :id
+      t.text :background
 
       t.timestamps null: false
     end
