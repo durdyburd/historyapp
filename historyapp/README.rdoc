@@ -1,5 +1,10 @@
 == README
 
+There is no copyright as of May 1, 2015.
+Photo credits:
+
+All background information gathered from my brain.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
