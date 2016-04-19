@@ -12,5 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
+//= require modernizr
+//= require jquery.mobile.custom.min
+//= require main
 //= require_tree .
