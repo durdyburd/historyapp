@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -23,9 +23,9 @@ a {
   text-decoration: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main Components 
+Main Components
 
 -------------------------------- */
 .cd-horizontal-timeline {
@@ -317,6 +317,16 @@ Main Components
 }
 .cd-horizontal-timeline .events-content em, .cd-horizontal-timeline .events-content p {
   line-height: 1.6;
+}
+.cd-horizontal-timeline .events-content img {
+  max-height: 225px;
+  max-width:  225px;
+  padding-top: 10px;
+  margin-left: 250px;
+}
+.cd-horizontal-timeline .events-content div {
+  height: 225px;
+  width: 225px;
 }
 @media only screen and (min-width: 768px) {
   .cd-horizontal-timeline .events-content h2 {
